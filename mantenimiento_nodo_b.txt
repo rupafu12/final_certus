@@ -1,0 +1,3 @@
+<inicio>
+primero
+<fin>

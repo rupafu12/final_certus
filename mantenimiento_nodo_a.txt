@@ -1,0 +1,4 @@
+<incio>
+aaaa
+alteracion
+<fin>
